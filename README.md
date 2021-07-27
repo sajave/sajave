@@ -1,4 +1,4 @@
-# About me
+# Hi there 👋
 Hola! Soy Santiago Veiga, formado como Full Stack Developer con experiencia en React, Redux, NodeJS y SQL, en búsqueda de nuevos desafíos que me ayuden a crecer profesionalmente 💪
 
 Curioso, resolutivo y siempre dispuesto a aprender y ayudar
