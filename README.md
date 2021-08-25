@@ -1,9 +1,12 @@
 # Hi there 👋
-Hola! Soy Santiago Veiga, formado como Full Stack Developer con experiencia en React, Redux, NodeJS y SQL, en búsqueda de nuevos desafíos que me ayuden a crecer profesionalmente 💪
+Inicié mis estudios como editor de audio, y al terminar la carrera comencé a buscar la forma de seguir creciendo. Fue así que primero aprendí a editar video, luego a hacer animaciones, después modelado 3D y finalmente descubrí que podía aplicar la programación a esos trabajos.
+Desde entonces decidí revertir la situación: enfocarme en la programación aportando mi experiencia del mundo audiovisual.
+Me enfoco mucho en aprender de mis compañeros y también de otras áreas, y eso es lo más importante que me dejaron mis trabajos anteriores como editor, diseñador y animador. Aprendí todo lo relacionado al trabajo en equipo, a buscar soluciones, a trabajar con deadlines ajustados y también la importancia de la prolijidad y el orden.
+Actualmente estoy formado como Full Stack Developer con experiencia en React, Redux, NodeJS y SQL, en búsqueda de nuevos desafíos que me ayuden a crecer 💪
 
-Curioso, resolutivo y siempre dispuesto a aprender y ayudar.
+Curioso, resolutivo y siempre dispuesto a aprender y ayudar
 
-Apasionado por la tecnología y el deporte!
+Apasionado por la tecnología y el deporte 👨‍💻🏊‍♂️ !
 
 **Tecnologias:**
 
