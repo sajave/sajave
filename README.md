@@ -1,16 +1,17 @@
 # Hi there 👋
-Inicié mis estudios como editor de audio, y al terminar la carrera comencé a buscar la forma de seguir creciendo. Fue así que primero aprendí a editar video, luego a hacer animaciones, después modelado 3D y finalmente descubrí que podía aplicar la programación a esos trabajos.
+I started my degree as a sound designer and after that I continued looking for a way to keep improving. So that's why, at the beginning, I have learned video editing. Later, to make animations, after that to 3D modeling, and finally, I have discovered that I was capable enough to apply programming to those jobs.
 
-Desde entonces decidí revertir la situación: enfocarme en la programación aportando mi experiencia del mundo audiovisual.
-Me enfoco mucho en aprender de mis compañeros y también de otras áreas, y eso es lo más importante que me dejaron mis trabajos anteriores como editor, diseñador y animador. Aprendí todo lo relacionado al trabajo en equipo, a buscar soluciones, a trabajar con deadlines ajustados y también la importancia de la prolijidad y el orden. 
+Since then, I have decided to have an impact on that, focusing mainly about programming, using my experience of the audiovisual world.
 
-Actualmente estoy formado como Full Stack Developer con experiencia en React, Redux, NodeJS y SQL, en búsqueda de nuevos desafíos que me ayuden a crecer 💪
+I'm focus on learn as much as I can from my teammates and from other areas too. That's the most value lesson that I've learned from my previous jobs. I'm good at teamwork, problem solving, and working to tight deadlines. I also believe in the importance of being organized and meticulous.
 
-Curioso, resolutivo y siempre dispuesto a aprender y ayudar
+Nowadays I'm working to becoming a front end developer, mixing my two passions: design and development.
 
-Apasionado por la tecnología y el deporte 👨‍💻🏊‍♂️ !
+Curious, decisive and always ready to learn and help.
 
-**Tecnologias:**
+Also passionate about tech and sports 👨‍💻🏊‍♂️ !
+
+**Techologies:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -22,6 +23,7 @@ Apasionado por la tecnología y el deporte 👨‍💻🏊‍♂️ !
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-%23E44D27?style=flat-square&logo=Express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf?style=flat-square&logo=PostgreSQL)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs&logoColor=f2003c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-blue?style=flat-square&logo=sequelize&logoColor=ffffff)
@@ -30,7 +32,7 @@ Apasionado por la tecnología y el deporte 👨‍💻🏊‍♂️ !
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-**Diseño grafico:**
+**Design:**
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
