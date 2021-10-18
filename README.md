@@ -1,5 +1,5 @@
 # Hi there 👋
-I started my degree as a sound designer and after that I continued looking for a way to keep improving. So that's why, at the beginning, I have learned video editing. Later, to make animations, after that to 3D modeling, and finally, I have discovered that I was capable enough to apply programming to those jobs.
+I started my career as a sound designer and after that I continued looking for a way to keep improving. So that's why, at the beginning, I have learned video editing. Later, to make animations, after that to 3D modeling, and finally, I have discovered that I was capable enough to apply programming to those jobs.
 
 Since then, I have decided to have an impact on that, focusing mainly about programming, using my experience of the audiovisual world.
 
