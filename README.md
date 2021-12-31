@@ -32,4 +32,4 @@ Also passionate about tech and sports 👨‍💻🏊‍♂️ !
 ![Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![After_Effects](https://img.shields.io/badge/-After%20Effects-purple?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo&logo=figma&logoColor=white)
